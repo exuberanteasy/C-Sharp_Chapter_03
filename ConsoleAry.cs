@@ -6,8 +6,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// 3-13 
-
 namespace ConsoleApp1
 {
     class Program
